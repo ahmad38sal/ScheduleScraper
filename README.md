@@ -28,7 +28,7 @@ pip install beautifulsoup4 selenium
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/workjam-schedule-scraper.git
+git clone https://github.com/ahmad38sal/ScheduleScraper.git
 
 
 2. Navigate to the project directory:
